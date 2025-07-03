@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 309.22 40.36">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+        mix-blend-mode: overlay;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="154.61" y1="0" x2="154.61" y2="40.36" gradientUnits="userSpaceOnUse">
+      <stop offset=".16" stop-color="#fff"/>
+      <stop offset=".16" stop-color="#fff" stop-opacity=".99"/>
+      <stop offset=".21" stop-color="#fff" stop-opacity=".78"/>
+      <stop offset=".27" stop-color="#fff" stop-opacity=".6"/>
+      <stop offset=".32" stop-color="#fff" stop-opacity=".44"/>
+      <stop offset=".38" stop-color="#fff" stop-opacity=".3"/>
+      <stop offset=".44" stop-color="#fff" stop-opacity=".19"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".11"/>
+      <stop offset=".58" stop-color="#fff" stop-opacity=".05"/>
+      <stop offset=".66" stop-color="#fff" stop-opacity=".01"/>
+      <stop offset=".78" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-1">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <rect class="cls-2" width="309.22" height="40.36" rx="7.05" ry="7.05"/>
+      </g>
+    </g>
+  </g>
+</svg>
